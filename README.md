@@ -1,4 +1,7 @@
-# top3 project: 
+# top3 project:
 
-Purpose: learn the CSS Box Model nad further practice CSS and HTML. 
-
+Purpose: to learn, and practice,
+ * CSS Box Model
+ * Divs and Spans
+ * Flexible Box
+ * Float

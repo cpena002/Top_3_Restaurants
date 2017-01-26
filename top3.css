@@ -3,7 +3,7 @@
   flex-flow: row wrap;
   text-align: center;
 }
-#header, #main, .aside1, .aside2, #footer {
+#header, #footer {
   flex: 1 100%;
 }
 
